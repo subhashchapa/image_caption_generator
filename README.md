@@ -48,7 +48,7 @@ The decoder is an LSTM network responsible for generating the caption word-by-wo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ResorcinolWorks/ICG.git
+    git clone https://github.com/subhashchapa/image_caption_generator.git
     cd ICG
     ```
 
